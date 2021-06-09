@@ -1,2 +1,5 @@
-# flight-booking-widget
-Created with CodeSandbox
+# Flight-booking-widget
+
+## Run the project:
+``yarn install`` 
+``yarn start ``
